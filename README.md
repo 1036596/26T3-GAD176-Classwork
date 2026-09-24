@@ -1,2 +1,2 @@
 # 26T3 GAD176 Classwork
-Classwork done in GAD176 - Game Scripting 2
+This is my classwork done in GAD176 - Game Scripting 2
